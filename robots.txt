@@ -2,4 +2,4 @@ User-agent: Googlebot
 User-agent: *
 Allow: /
 
-Sitemap: https://mymeebhoomi.com/sitemap.xml
+Sitemap: https://parivahansewass.github.io/sitemap.xml
